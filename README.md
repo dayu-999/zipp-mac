@@ -133,7 +133,7 @@ shasum -a 256 ~/Downloads/Zipp-Mac-JP-1.0.1-r4-guide1.zip
 - 常駐: `LSUIElement = 1`（Dock 非表示）
 - 通信先: 設定した翻訳エンドポイントのみ（翻訳内容を受け取る中継サーバーはありません）
 
-Vision OCR の二段組処理や座標系の扱いについては、実装メモを Qiita に書いています。
+Vision OCR の二段組処理や座標系の扱いについては、実装メモを Qiita に書いています: <https://qiita.com/dayu510/items/4598c346b4329acf516e>
 
 ---
 
