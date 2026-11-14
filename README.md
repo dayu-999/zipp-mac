@@ -1,7 +1,7 @@
 # Zipp（閃貼）— 画面の外国語を、囲んだ瞬間に読む（Mac 専用）
 
 <p align="center">
-  <img src="./assets/zipp_icon_512.png" width="96" alt="Zipp アプリアイコン" />
+  <img src="./zipp_icon_512.png" width="96" alt="Zipp アプリアイコン" />
 </p>
 
 **Zipp（閃貼）** は、macOS の画面上でコピーできない PDF・エラーログ・デザイン画面の文字を `⌃S` で囲むだけで、Mac 内の Apple Vision OCR で読み取り、最前面の小窓に訳文を表示する軽量翻訳ツールです。
@@ -40,9 +40,9 @@
 2. Finder 上で `Zipp.app` を **右クリック（または Control + クリック）** して「**開く**」を選び、確認ダイアログでもう一度「**開く**」をクリックします。
 3. うまく開けない場合は、macOS の「**システム設定 › プライバシーとセキュリティ**」下部に表示される「**このまま開く**」から許可してください（2回目以降は通常どおり起動します）。
 
-> 配布 ZIP 内にも図解画像 [`はじめに.png`](./assets/hajimeni.png) を同梱しています。
+> 配布 ZIP 内にも図解画像 [`はじめに.png`](./hajimeni.png) を同梱しています。
 
-![初回起動ガイド](./assets/hajimeni.png)
+![初回起動ガイド](./hajimeni.png)
 
 ---
 
