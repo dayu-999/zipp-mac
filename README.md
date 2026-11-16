@@ -10,6 +10,8 @@
   <img alt="Local OCR" src="https://img.shields.io/badge/OCR-on--device%20(Apple%20Vision)-111111?style=flat-square">
 </p>
 
+<p><strong>公式サイト：</strong><a href="https://www.zipp-mac.com/?utm_source=github">https://www.zipp-mac.com/</a> ｜ <strong>公式 ZIP：</strong><a href="https://www.zipp-mac.com/Zipp-Mac-JP-1.0.1-r4-guide1.zip">Zipp-Mac-JP-1.0.1-r4-guide1.zip</a>（日本語固定 UI / 初回は右クリック → 開く）</p>
+
 ---
 
 ## できること
@@ -65,6 +67,7 @@ Zipp は **「変換しない」** 側に振っています。画面はそのま
 | macOS | **13.0 以降**（macOS 15 Sequoia を含む） |
 | CPU | **Apple Silicon（arm64）専用** |
 | Intel Mac | **対象外**（配布ビルドは arm64 のみ） |
+| UI | 日本語固定 |
 
 配布しているビルドは Apple Silicon 向けです。Intel Mac では動作しません。
 
@@ -170,7 +173,7 @@ This build is **ad-hoc signed**, not notarized. That is why the first launch req
 
 ## リンク
 
-- 公式サイト / Website: <https://www.zipp-mac.com/>
+- 公式サイト / Website: <https://www.zipp-mac.com/?utm_source=github>
 - リリース / Releases: <https://github.com/dayu-999/zipp-mac/releases>
 
 ## 免責
